@@ -20,7 +20,7 @@ const app = express();
 // [START hello_world]
 // Say hello!
 app.get('/', (req, res) => {
-  res.status(200).send('Hello, coffs test!');
+  res.status(200).send('Autimated... ');
 });
 // [END hello_world]
 
